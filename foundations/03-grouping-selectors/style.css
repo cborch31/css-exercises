@@ -1,0 +1,15 @@
+.meow,
+.tail {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.meow {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.tail {
+    background-color: yellow;
+}
